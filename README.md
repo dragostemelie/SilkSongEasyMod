@@ -1,7 +1,5 @@
 # SilkSongEasyMod
 
-## ℹ️ Description
-
 > ⚠️ This project is a fork of [HKSEasyMod]([link-to-original-repo](https://github.com/marcmeru11/HKSEasyMod)).  It adds runtime configuration options for gameplay ease.
 
 SilkSongEasyMod is a gameplay mod for Hollow Knight: Silksong designed to reduce difficulty and improve player comfort.
@@ -24,7 +22,7 @@ The mod is built using BepInEx and Harmony, allowing runtime patching of game be
 
 ## 🔗 Download
 
-Available on Nexus Mods: 👉 https://www.nexusmods.com/hollowknightsilksong/mods/588
+Download the latest version from the [Releases](https://github.com/dragostemelie/SilkSongEasyMod/releases/tag/%23release) page.
 
 ## 📦 Installation
 
